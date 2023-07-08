@@ -1,0 +1,9 @@
+.gridContainer {
+    border: solid black;
+    height: 40vh;
+}
+.row{
+    border: solid red;
+    height: 5%;
+    width: 100%;
+}
